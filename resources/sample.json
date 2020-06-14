@@ -1,0 +1,301 @@
+[{
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:25:00",
+	"MEDIO": "gprs",
+	"DATO": 894
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:26:00",
+	"MEDIO": "gprs",
+	"DATO": 860
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:27:00",
+	"MEDIO": "gprs",
+	"DATO": 790
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:28:00",
+	"MEDIO": "gprs",
+	"DATO": 898
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:29:00",
+	"MEDIO": "gprs",
+	"DATO": 828
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:30:00",
+	"MEDIO": "gprs",
+	"DATO": 837
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:31:00",
+	"MEDIO": "gprs",
+	"DATO": 790
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:32:00",
+	"MEDIO": "gprs",
+	"DATO": 895
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:33:00",
+	"MEDIO": "gprs",
+	"DATO": 829
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:34:00",
+	"MEDIO": "gprs",
+	"DATO": 818
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:35:00",
+	"MEDIO": "gprs",
+	"DATO": 828
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:36:00",
+	"MEDIO": "gprs",
+	"DATO": 835
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:37:00",
+	"MEDIO": "gprs",
+	"DATO": 779
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:38:00",
+	"MEDIO": "gprs",
+	"DATO": 818
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:39:00",
+	"MEDIO": "gprs",
+	"DATO": 823
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:40:00",
+	"MEDIO": "gprs",
+	"DATO": 774
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:41:00",
+	"MEDIO": "gprs",
+	"DATO": 905
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:42:00",
+	"MEDIO": "gprs",
+	"DATO": 799
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:43:00",
+	"MEDIO": "gprs",
+	"DATO": 803
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:44:00",
+	"MEDIO": "gprs",
+	"DATO": 866
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:45:00",
+	"MEDIO": "gprs",
+	"DATO": 858
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:46:00",
+	"MEDIO": "gprs",
+	"DATO": 788
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:47:00",
+	"MEDIO": "gprs",
+	"DATO": 830
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:48:00",
+	"MEDIO": "gprs",
+	"DATO": 890
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:49:00",
+	"MEDIO": "gprs",
+	"DATO": 860
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:50:00",
+	"MEDIO": "gprs",
+	"DATO": 869
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:51:00",
+	"MEDIO": "gprs",
+	"DATO": 807
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:52:00",
+	"MEDIO": "gprs",
+	"DATO": 889
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:53:00",
+	"MEDIO": "gprs",
+	"DATO": 870
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:54:00",
+	"MEDIO": "gprs",
+	"DATO": 754
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:55:00",
+	"MEDIO": "gprs",
+	"DATO": 788
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:56:00",
+	"MEDIO": "gprs",
+	"DATO": 845
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:57:00",
+	"MEDIO": "gprs",
+	"DATO": 840
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:58:00",
+	"MEDIO": "gprs",
+	"DATO": 880
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 02:59:00",
+	"MEDIO": "gprs",
+	"DATO": 793
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:00:00",
+	"MEDIO": "gprs",
+	"DATO": 790
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:01:00",
+	"MEDIO": "gprs",
+	"DATO": 943
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:02:00",
+	"MEDIO": "gprs",
+	"DATO": 885
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:03:00",
+	"MEDIO": "gprs",
+	"DATO": 892
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:04:00",
+	"MEDIO": "gprs",
+	"DATO": 869
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:05:00",
+	"MEDIO": "gprs",
+	"DATO": 825
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:06:00",
+	"MEDIO": "gprs",
+	"DATO": 906
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:07:00",
+	"MEDIO": "gprs",
+	"DATO": 904
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:08:00",
+	"MEDIO": "gprs",
+	"DATO": 855
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:09:00",
+	"MEDIO": "gprs",
+	"DATO": 795
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:10:00",
+	"MEDIO": "gprs",
+	"DATO": 853
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:11:00",
+	"MEDIO": "gprs",
+	"DATO": 935
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:12:00",
+	"MEDIO": "gprs",
+	"DATO": 781
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:13:00",
+	"MEDIO": "gprs",
+	"DATO": 818
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:14:00",
+	"MEDIO": "gprs",
+	"DATO": 739
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:15:00",
+	"MEDIO": "gprs",
+	"DATO": 975
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:16:00",
+	"MEDIO": "gprs",
+	"DATO": 940
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:17:00",
+	"MEDIO": "gprs",
+	"DATO": 890
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:18:00",
+	"MEDIO": "gprs",
+	"DATO": 860
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:19:00",
+	"MEDIO": "gprs",
+	"DATO": 827
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:20:00",
+	"MEDIO": "gprs",
+	"DATO": 925
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:21:00",
+	"MEDIO": "gprs",
+	"DATO": 817
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:22:00",
+	"MEDIO": "gprs",
+	"DATO": 895
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:23:00",
+	"MEDIO": "goes",
+	"DATO": 895
+}, {
+	"ESTACION": "COQU",
+	"FECHA": "2020-06-13 03:24:00",
+	"MEDIO": null,
+	"DATO": null
+}]

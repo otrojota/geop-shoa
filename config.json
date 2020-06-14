@@ -1,0 +1,13 @@
+{
+    "webServer":{
+        "http":{"port":8192}
+    },
+    "minZUrl_dev":"http://localhost:8191",
+    "minZUrl":"http://minz:8191",
+    "minZUrl_geoos":"https://provider.geoos.org/minz",
+    "bcnUrl":"https://provider.geoos.org/bcn",
+    "minZAuthToken":"g_geop.A12.admin,_",
+    "timeZone":"America/Santiago",
+    "dataPath_bak":"/Users/jota/proyectos/PUCV/geoportal/data/shoa/data",
+    "dataPath":"/home/data"
+}
