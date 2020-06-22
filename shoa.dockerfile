@@ -1,5 +1,5 @@
-# docker build -f shoa.dockerfile -t otrojota/geoportal:shoa-0.16 .
-# docker push otrojota/geoportal:shoa-0.16
+# docker build -f shoa.dockerfile -t otrojota/geoportal:shoa-0.17 .
+# docker push otrojota/geoportal:shoa-0.17
 #
 FROM otrojota/geoportal:gdal-nodejs
 WORKDIR /opt/geoportal/geop-shoa
