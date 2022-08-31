@@ -26,6 +26,6 @@
   "dependencies": {
     "@turf/turf": "^5.1.6",
     "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git",
-    "moment-timezone": "^0.5.31"
+    "moment-timezone": "^0.5.35"
   }
 }
